@@ -40,8 +40,6 @@ void robotPrintAscii(void)
   printf("\n\n"
 	 "UWR: Unidentified Wheeled Robot\n"
 
-	
-
 	 "%s    i_i    \n"
 	 "%s   [._.]   \n"
 	 "%s  /|___|\\ \n"
